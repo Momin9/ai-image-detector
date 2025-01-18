@@ -1,0 +1,10 @@
+*.pyc
+_pycache_/
+*.log
+.env
+.venv/
+node_modules/
+staticfiles/
+data/
+uploads/
+weights/
